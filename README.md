@@ -12,7 +12,7 @@
 - `ng version`
 
 # Clonar el repositorio
-- `git clone 
+- `git clone https://github.com/everardo192/egt-login-gds0553-1
 
 # Cambiarse al directorio
 - `cd (C:\egt-login-gds0553-corregido)`
