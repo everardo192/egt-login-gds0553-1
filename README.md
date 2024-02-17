@@ -12,7 +12,7 @@
 - `ng version`
 
 # Clonar el repositorio
-- `git clone https://github.com/everardo192/egt-login-gds0553-1
+- `git clone https://github.com/everardo192/egt-login-gds0553-1`
 
 # Cambiarse al directorio
 - `cd (C:\egt-login-gds0553-corregido)`
@@ -34,4 +34,4 @@
 
 # Ingresar a la URL
 
-[Ingresar a la página](https://localhost:4200/)
+[Ingresar a la página](https://localhost:4200/login)
