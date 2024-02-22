@@ -35,11 +35,11 @@ export class LoginComponent {
           sessionStorage.setItem('email', email as string);
           this.router.navigate(['/home']);
         } else {
-          this.msgService.add({ severity: 'error', summary: 'Error', detail: 'email or password is wrong' });
+          this.msgService.add({ severity: 'error', summary: 'Error', detail: 'Correo electronico o la contraseña incorrectos' });
         }
       },
       error => {
-        this.msgService.add({ severity: 'error', summary: 'Error', detail: 'Something went wrong' });
+        this.msgService.add({ severity: 'error', summary: 'Error', detail: 'Lo sentimos hubo un error consulte con el administrador' });
       }
 
     )
